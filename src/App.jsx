@@ -25,5 +25,6 @@ const App = () => {
     })}
     </article>
   </section>;
-};
+}
+
 export default App;
